@@ -45,3 +45,4 @@ launcher/out/
 vibe-release-dist/
 *.msi
 *.exe
+.dsh-vision-router/
