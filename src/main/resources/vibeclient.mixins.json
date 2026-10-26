@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "package": "com.vibe.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "injectors": {
+    "defaultRequire": 0
+  },
+  "client": [
+    "BossbarCustomizerMixin",
+    "CameraAccessor",
+    "CameraMixin",
+    "CapeTextureMixin",
+    "GameRendererMixin",
+    "InGameHudMixin",
+    "GameRendererTweaksMixin",
+    "MouseMixin",
+    "TitleScreenMixin",
+    "BossbarCustomizerMixin"
+  ]
+}

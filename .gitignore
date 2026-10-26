@@ -1,0 +1,9 @@
+launcher/out/
+build/
+dist/
+tools/
+gradle-home/
+*.zip
+*.msi
+*.exe
+.dsh-vision-router/
