@@ -1,3 +1,10 @@
+> ⚠️ **ПРЕДУПРЕЖДЕНИЕ: ТЕСТОВЫЙ РЕЖИМ (ALPHA / BETA)**
+> Проект находится в стадии активной разработки и публичного тестирования!
+> В этой версии **может быть дофига багов, вылетов и нестабильных фич**. 
+> Мы выложили клиент для демонстрации фундамента и сбора фидбека. 
+> Если нашли баг — создавайте **Issue** или пишите нам. Вы предупреждены! 🧪💥
+
+---
 # 🌌 Vibe Client
 
 > **The Ultimate Lunar & Badlion Tier Minecraft Client & Launcher**  
@@ -56,6 +63,7 @@
 
 ## 🚀 Quick Start / Быстрый старт
 
-1. Download the latest release from the Releases page.
-2. Run the installer or launch `VibeClient.exe` / `launcher.jar`.
-3. Pick your version in the **Versions** tab (Supported 1.21+ or Vanilla) and hit **PLAY**!
+1. **Windows**: Download [VibeClient-1.2.msi](launcher/out/installer-msi/VibeClient-1.2.msi) (MSI Installer) or get it from Releases.
+2. **Linux**: Run `bash installers/linux/install-vibe.sh`
+3. **macOS**: Run `bash installers/macos/install-vibe.command`
+4. Pick your version in the **Versions** tab (Supported 1.21+ or Vanilla) and hit **PLAY**!
