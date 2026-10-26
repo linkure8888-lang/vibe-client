@@ -55,6 +55,7 @@ public final class Theme {
     public static final Color TEXT = new Color(0xF6F7FC);
     public static final Color TEXT_DIM = new Color(0xA2A6BB);
     public static final Color TEXT_FAINT = new Color(0x666A80);
+    public static final Color TEXT_MUTED = TEXT_DIM;
 
     // -- Status ------------------------------------------------------------
     public static final Color OK = new Color(0x4ADE80);

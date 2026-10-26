@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Vibe Client - Build
+Comment=Build the Vibe Client mod and install it into mods/
+Exec=bash -c 'cd "$(dirname "%k")" && ./build.sh; echo; echo Press Enter to close.; read'
+Icon=applications-games
+Terminal=true
+Categories=Game;
