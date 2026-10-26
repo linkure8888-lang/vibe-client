@@ -1,0 +1,47 @@
+# --- Secrets ---------------------------------------------------------------
+# NEVER commit the .env file: it holds API tokens.
+.env
+.env.*
+!.env.example
+
+# --- Gradle / build --------------------------------------------------------
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local toolchain we downloaded INTO the project (not part of the source).
+# Gradle itself (~130 MB) and every dependency cache live here.
+.gradle-home/
+gradle-home/
+tools/
+
+# Loom cache
+.loom/
+run/
+
+# --- IDE -------------------------------------------------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# --- OS --------------------------------------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Logs / temp -----------------------------------------------------------
+*.log
+*.tmp
+*.bak
+hs_err_pid*
+replay_pid*
+dist/
+launcher/out/
+vibe-release-dist/
+*.msi
+*.exe

@@ -1,0 +1,5 @@
+[Vibe Client Windows MSI Installer Stub]
+Product: Vibe Client v1.0.0
+Architecture: x64
+Target: Minecraft Fabric 1.20.4+
+Description: Professional Lunar/Badlion tier Minecraft client installer package.
