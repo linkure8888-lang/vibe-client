@@ -63,7 +63,7 @@
 
 ## 🚀 Quick Start / Быстрый старт
 
-1. **Windows**: Download [VibeClient-1.2.msi](launcher/out/installer-msi/VibeClient-1.2.msi) (MSI Installer) or get it from Releases.
-2. **Linux**: Run `bash installers/linux/install-vibe.sh`
-3. **macOS**: Run `bash installers/macos/install-vibe.command`
-4. Pick your version in the **Versions** tab (Supported 1.21+ or Vanilla) and hit **PLAY**!
+1. **Windows**: Скачайте **`VibeClient-Setup.msi`** из корня репозитория или релизов, запустите и играйте!
+2. **macOS**: Пакеты `.dmg` и архивы `.app` находятся в разработке (планируются в будущих релизах).
+3. **Linux**: Пакеты `.AppImage` и `.deb` находятся в разработке (планируются в будущих релизах).
+4. Выберите версию во вкладке **Versions** (Поддерживаемая 1.21+ или Vanilla) и нажмите **PLAY**!
